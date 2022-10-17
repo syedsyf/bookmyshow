@@ -1,0 +1,9 @@
+.movibox{
+    margin:30px 40px;
+    display: flex;   
+    flex-direction: row;
+    justify-content: center;;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap:3rem;
+}
